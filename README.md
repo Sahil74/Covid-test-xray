@@ -15,3 +15,8 @@ Prerequisites
 * Keras
 * Matplotlib
 * splitfolders
+
+
+### Dataset
+The dataset for this study consists of chest X-ray pictures classified as COVID-19 positive or negative. It is separated into three subsets: training, validation, and test. The dataset is organised as follows.
+
