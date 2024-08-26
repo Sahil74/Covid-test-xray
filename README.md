@@ -24,6 +24,7 @@
 
 ### Model Summary
 
+![Model](./Model.png)
 
 ### Result
 - The model demonstrates strong performance, with validation accuracy consistently nearing 97% by the end of the training. The loss values decrease progressively, indicating effective learning and generalization. The consistent high accuracy across validation sets confirms the model’s robustness and reliability.
